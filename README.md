@@ -1,5 +1,4 @@
 # Customer-Churn-Data-Analysis-
-
 Project Context:
 This repository contains a Customer Churn Data Analysis project created using Power BI.  
 The goal of this project is to analyze customer behavior and identify factors that contribute to customer churn.
